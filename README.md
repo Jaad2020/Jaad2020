@@ -1,7 +1,7 @@
-- 👋  I’m @Jaad2020
-- 👀  interested in penetration testing and security
-- 🌱 currently learning BCA (cybersecurity,data analytics,cyber forensic)IBM
-- 📫 How to reach me jaadalgafoor46@gmail.com
+- 👋  @Jaad2020
+- INFO-SEC ENTHUSIAST TRYING TO ADVANCE IN CYBER SECURITY, CYBER SECURITY & DATA ANALYTICS
+-  currently learning 
+- reach me --> jaadalgafoor46@gmail.com
 
 <!---
 Jaad2020/Jaad2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
