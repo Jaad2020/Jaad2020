@@ -1,4 +1,4 @@
-- 👋  @Jaad2020
+- 👋  @Jaadalgafoor
 - INFO-SEC ENTHUSIAST TRYING TO ADVANCE IN CYBER SECURITY, CYBER SECURITY & DATA ANALYTICS
 -  currently learning 
 - reach me --> jaadalgafoor46@gmail.com
